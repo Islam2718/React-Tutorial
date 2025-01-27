@@ -1,0 +1,9 @@
+React Bangla Tutorial 0 : welcome to react video series
+React Bangla Tutorial 1 : Introduction to React
+React Bangla Tutorial 2 : environment setup
+React Bangla Tutorial 3 : Create first React project with Vite
+React Bangla Tutorial 4 : JSX and JS Expression
+React Bangla Tutorial 5 : CSS Styling in JSX
+React Bangla Tutorial 6 : More on CSS in JSX | design a card
+React Bangla Tutorial 7 : how to create and use react component
+React Bangla Tutorial 8 : Props and destructuring
