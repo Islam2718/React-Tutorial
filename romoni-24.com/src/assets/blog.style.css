@@ -1,9 +1,33 @@
 /* romoni-24.com style  */
+.rm24-bg{
+    background-color: #F5F5DC;
+}
 .rm24-header, .rm24-menu{
     background-color: #F5F5DC;
     color: #000;
 }
-.rm24-footer{
+.rm24-copyright{
     background-color: #000;
     color: #fff;
+}
+.rm24-footer{
+    background-color: #F5F5DC;
+}
+.rm24-footer h4{
+    text-align: center;
+}
+.rm24-footer ul{
+    padding: 0;
+    text-align: center;
+}
+.rm24-footer li{
+    list-style: none;
+}
+.rm24-footer a{
+    color: #000;
+    text-decoration: none;    
+}
+.rm24-slider img{
+    width: 100%;
+    height: 30vh;
 }
